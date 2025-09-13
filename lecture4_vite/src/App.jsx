@@ -85,6 +85,15 @@ function App() {
         <div className="bg-black h-1/3"></div>
         </div>
       </div>
+      <h1>Bahamus</h1>
+      <div className="border w-72 h-36 flex flex-col mt-2">
+        
+        <div className="bg-[#00788c] h-1/3"></div>
+        <div className="bg-[#ffc828] h-1/3"></div>
+        <div className="bg-[#00788c] h-1/3"></div>
+        
+        
+      </div>
     </>
 
   )
