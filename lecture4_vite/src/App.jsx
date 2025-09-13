@@ -77,15 +77,13 @@ function App() {
         
       </div>
       <h1>UAE Flag</h1>
-      <div className="border w-72 h-36 flex">
-              
-        <div className="bg-red-900 w-1/4"></div>
+      <div className="border w-72 h-36 flex"> 
+        <div className="bg-[#c9072a] w-1/4"></div>
         <div className="bg-white w-3/4">
-        <div className="bg-green-900 h-1/3"></div>
+        <div className="bg-[#00853a] h-1/3"></div>
         <div className="bg-white h-1/3"></div>
         <div className="bg-black h-1/3"></div>
         </div>
-        
       </div>
     </>
 
